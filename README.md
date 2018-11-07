@@ -1,2 +1,3 @@
 # Leetcode
-For myself
+
+To be better in Programming. To grasp more skills!
