@@ -15,7 +15,9 @@
     ```
 3. Subset 
     
-    `set`
+    set() provides classes for constructing and manipulating unordered collections of unique elements
+    
     `{0, 1}.issubset({0, 1, 2}) return True`
+    
     `{1}.issubset({'A', 'B', 'C'}) return False`
      
