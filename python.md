@@ -45,6 +45,6 @@
 
 8. str to lst
 
-  `lst_s =[x for x in s]`
+    `lst_s =[x for x in s]`
   
-  `lst_s = list(s)`
+    `lst_s = list(s)`
