@@ -36,3 +36,9 @@
     The `eval()` function evaluates or executes an argument. If the argument is a string and with number and expression, it will return expression result
     
     `eval('2+3')` return 5
+
+7. string upper and lower
+
+    `str.lower()` return all lowercase string
+    
+    `str.upper()` return all uppercase string
