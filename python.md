@@ -42,3 +42,9 @@
     `str.lower()` return all lowercase string
     
     `str.upper()` return all uppercase string
+
+8. str to lst
+
+  `lst_s =[x for x in s]`
+  
+  `lst_s = list(s)`
