@@ -52,3 +52,23 @@
 9. all alphbetic character in list
 
     `[chr(i) for i in range(ord('a'),ord('z')+1)]`
+    
+10. list running time
+    
+    `len(list)` is an `O(1)` operation
+    
+    `append(list)` is an `O(1)` operation
+    
+    `set(list)` is an `O(1)` operation
+    
+    `list.pop(index)` is an `O(index)` operation, `list.pop(0)` is an `O(1)` operation
+    
+    `max(list)` or `min(list)` is an `O(n)` operation 
+    
+    `delete(list)` is an `O(n)` operation
+    
+    `iternation` is an `O(n)` operation
+    
+    `x in list` is `O(n)` operation
+    
+    
