@@ -48,3 +48,7 @@
     `lst_s =[x for x in s]`
   
     `lst_s = list(s)`
+
+9. all alphbetic character in list
+
+    `[chr(i) for i in range(ord('a'),ord('z')+1)]`
