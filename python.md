@@ -55,6 +55,8 @@
     
 10. list running time
     
+    ```
+    
     `len(list)` is an `O(1)` operation
     
     `append(list)` is an `O(1)` operation
@@ -71,4 +73,5 @@
     
     `x in list` is `O(n)` operation
     
+    ```
     
