@@ -78,3 +78,7 @@
 11. Set add and list append
 
     `set.add()` is far `fast` than `lst.append()`
+
+12. 32bits
+    
+    `'{0:032b}'.format(x)` return len of 32 format for bits
