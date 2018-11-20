@@ -75,3 +75,6 @@
     
     ```
     
+11. Set add and list append
+
+    `set.add()` is far `fast` than `lst.append()`
