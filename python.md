@@ -1,12 +1,12 @@
 # Python
 
-1. Reverse Str, list
+1. reverse str, list
   
    `res = res[::-1]` res = 'abc', return 'cba'
    
    `lst = lst[::-1]` lst = ['a', 'b', 'c'] return ['c', 'b', 'a']
 
-2. Reverse Int
+2. severse int
    
     ```
     res = int(str(abs(x))[::-1])
@@ -15,7 +15,7 @@
     else
         return res
     ```
-3. Subset 
+3. subset 
     
     set() provides classes for constructing and manipulating unordered collections of unique elements
     
@@ -23,7 +23,7 @@
     
     `{1}.issubset({'A', 'B', 'C'}) return False`
 
-4. Srting handling
+4. string handling
 
    `str.isalpha()` return True if all character in the string are alphabets. Otherwise return False
    
