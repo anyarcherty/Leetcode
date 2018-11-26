@@ -82,6 +82,8 @@
 12. 32bits
     
     `'{0:032b}'.format(x)` return len of 32 format for bits
+    
+    `int({0:032b}'.format(x), 2)` return int from binary
 
 13. sorted(list) vs list.sort()
 
