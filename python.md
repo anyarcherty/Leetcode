@@ -82,3 +82,9 @@
 12. 32bits
     
     `'{0:032b}'.format(x)` return len of 32 format for bits
+
+13. sorted(list) vs list.sort()
+
+    `list.sort` mutates `the list` in-place & returns None. Modify the raw list!
+    
+    `sorted(list)` takes any iterable & returns a `new list`, sorted. Do not modify the raw list!
