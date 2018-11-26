@@ -88,3 +88,10 @@
     `list.sort` mutates `the list` in-place & returns None. Modify the raw list!
     
     `sorted(list)` takes any iterable & returns a `new list`, sorted. Do not modify the raw list!
+
+
+14. list.append(lst) vs list.extend(lst)
+
+    `append` adds its argument as a `single element` to the end of a list
+    
+    `extend` iterates over its argument adding `each element` to the list
