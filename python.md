@@ -95,3 +95,7 @@
     `append` adds its argument as a `single element` to the end of a list
     
     `extend` iterates over its argument adding `each element` to the list
+
+15. str.strip()
+
+    `str.strip()` with no arguments (or None as the first argument) `remove all whitespace` at the start and end, including `spaces`, `tabs`, `newline`s and `carriage returns`
