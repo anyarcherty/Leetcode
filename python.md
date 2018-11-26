@@ -1,8 +1,10 @@
 # Python
 
-1. Reverse Str
+1. Reverse Str, list
   
-   `res = res[::-1]`
+   `res = res[::-1]` res = 'abc', return 'cba'
+   
+   `lst = lst[::-1]` lst = ['a', 'b', 'c'] return ['c', 'b', 'a']
 
 2. Reverse Int
    
