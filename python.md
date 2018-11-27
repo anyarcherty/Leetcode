@@ -93,7 +93,8 @@
     
     `sorted(list)` takes any iterable & returns a `new list`, sorted. Do not modify the raw list!
 
-
+    `sorted(list, reverse=Ture)` get the reverse order of list
+    
 14. list.append(lst) vs list.extend(lst)
 
     `append` adds its argument as a `single element` to the end of a list
