@@ -118,3 +118,9 @@
 15. str.strip()
 
     `str.strip()` with no arguments (or None as the first argument) `remove all whitespace` at the start and end, including `spaces`, `tabs`, `newline`s and `carriage returns`
+
+16. list[:]
+
+    It takes a copy of the tuple, instead of a reference to the tuple itself.
+
+    The [:] syntax is a slice with the default start and end values (0 and the length of the list), returning a new tuple with those indices, so effectively an exact copy of the contents
