@@ -148,3 +148,21 @@
     dic return {a: 1, b: 2}
     ```
     
+19. sort dict
+    
+    ```
+    Sort dict by key
+    mydict = {'carl':40,
+              'alan':2,
+              'bob':1,
+              'danny':3}
+
+    for key in sorted(mydict.iterkeys()):
+        print "%s: %s" % (key, mydict[key])
+    ```
+    
+    ```
+    sort dict by value
+    for key, value in sorted(mydict.iteritems(), key=lambda (k,v): (v,k)):
+        print "%s: %s" % (key, value)
+    ```
