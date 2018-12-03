@@ -127,6 +127,8 @@
 
 17. list.count(value)
 
+    ```
     lst = [1,1,2,3,4,1,1]
     
-    `lst.count(1)` return 3
+    lst.count(1) return 3
+    ```
