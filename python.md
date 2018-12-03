@@ -124,3 +124,9 @@
     It takes a copy of the tuple, instead of a reference to the tuple itself.
 
     The [:] syntax is a slice with the default start and end values (0 and the length of the list), returning a new tuple with those indices, so effectively an exact copy of the contents
+
+17. list.count(value)
+
+    lst = [1,1,2,3,4,1,1]
+    
+    `lst.count(1)` return 3
