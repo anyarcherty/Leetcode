@@ -132,3 +132,19 @@
     
     lst.count(1) return 3
     ```
+
+18. dict.update()
+
+    append new key/value in dict
+    ```
+    dic = {}
+    
+    dic.update({a: 1})
+    
+    dic return {a: 1}
+    
+    dic.update({b: 2})
+    
+    dic return {a: 1, b: 2}
+    ```
+    
