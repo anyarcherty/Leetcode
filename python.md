@@ -101,6 +101,12 @@
     
     `int({0:032b}'.format(x), 2)` return int from binary
 
+12 binary to int
+
+   `int('1010', 2)` return 10
+   
+   `bin(10)` return 1010
+    
 13. sorted(list) vs list.sort()
 
     `list.sort` mutates `the list` in-place & returns None. Modify the raw list!
