@@ -172,3 +172,16 @@
     for key, value in sorted(mydict.iteritems(), key=lambda (k,v): (v,k)):
         print "%s: %s" % (key, value)
     ```
+
+20. Python's slice notation
+    
+    `sliceable[start:stop:step]` 
+    
+    ```
+    lst = [1,2,3,4,5,6]
+    lst[:2] = [1,2]
+    lst[::2] = [1,3,5]
+    lst[:2:2] = [1]
+    lst[2::3] = [3, 6]
+    ```
+    
