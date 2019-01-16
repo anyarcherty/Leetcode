@@ -185,3 +185,10 @@
     lst[2::3] = [3, 6]
     ```
     
+21. bitwise operators
+    
+    `&` `a & b` 
+    
+    bitwise and, each bit position in the result is the logical `And` of the bits in the corresponding position of the operands. 
+    
+    Each bit of the output is 1 if the corresponding bit of x and of y is 1, otherwise is 0
