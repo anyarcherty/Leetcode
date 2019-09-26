@@ -93,19 +93,19 @@
     
 11. set add and list append
 
-    `set.add()` is far `fast` than `lst.append()`
+      `set.add()` is far `fast` than `lst.append()`
 
 12. 32bits
     
-    `'{0:032b}'.format(x)` return len of 32 format for bits
+     `'{0:032b}'.format(x)` return len of 32 format for bits
     
-    `int({0:032b}'.format(x), 2)` return int from binary
+     `int({0:032b}'.format(x), 2)` return int from binary
 
 12. binary to int
 
-    `int('1010', 2)` return 10
+      `int('1010', 2)` return 10
    
-    `bin(10)` return 1010
+      `bin(10)` return 1010
     
 13. sorted(list) vs list.sort()
 
