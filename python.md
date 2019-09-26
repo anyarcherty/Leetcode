@@ -103,9 +103,9 @@
 
 12. binary to int
 
-   `int('1010', 2)` return 10
+    `int('1010', 2)` return 10
    
-   `bin(10)` return 1010
+    `bin(10)` return 1010
     
 13. sorted(list) vs list.sort()
 
