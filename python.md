@@ -101,7 +101,7 @@
     
     `int({0:032b}'.format(x), 2)` return int from binary
 
-12 binary to int
+12. binary to int
 
    `int('1010', 2)` return 10
    
